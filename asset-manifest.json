@@ -1,33 +1,40 @@
 {
   "files": {
-    "main.css": "/web/static/css/main.be6db765.css",
-    "main.js": "/web/static/js/main.5e3fb314.js",
+    "main.css": "/web/static/css/main.176258ba.css",
+    "main.js": "/web/static/js/main.f91225c0.js",
     "static/media/profile.jpg": "/web/static/media/profile.03a56582340017be92fc.jpg",
     "static/media/hultLisbon.jpg": "/web/static/media/hultLisbon.a69e0a6564e322d43f33.jpg",
     "static/media/aerialManipulator.png": "/web/static/media/aerialManipulator.ccf0d3ccec68d5fa4335.png",
     "static/media/PunchPro.png": "/web/static/media/PunchPro.c0f9e4fe9765c6668a3b.png",
     "static/media/singh_nanotech.png": "/web/static/media/singh_nanotech.878a5e7a1108d718341c.png",
     "static/media/synth.png": "/web/static/media/synth.d2a6b90aa1b8951e6b5e.png",
+    "static/media/user_experience.png": "/web/static/media/user_experience.ff9e75009d0f68bf6fa3.png",
     "static/media/nanoneuro_team.jpg": "/web/static/media/nanoneuro_team.65a7c206680178dcab59.jpg",
+    "static/media/tubular_hand.png": "/web/static/media/tubular_hand.ca0cc3b5e328ade164b9.png",
     "static/media/41robo.png": "/web/static/media/41robo.3ffbec26735414c7cb40.png",
+    "static/media/render_punch.png": "/web/static/media/render_punch.a9c526af1277aed32bb7.png",
     "static/media/sungRobo.png": "/web/static/media/sungRobo.f82f545c203b61bb7196.png",
     "static/media/fa-solid-900.ttf": "/web/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/hexChannels.png": "/web/static/media/hexChannels.87345c04ff87ee4490d4.png",
     "static/media/3Finger.png": "/web/static/media/3Finger.1fafcd707a6f5c77edb5.png",
+    "static/media/user_interface.png": "/web/static/media/user_interface.274949b2cd49ace3ef98.png",
+    "static/media/sensiSole_data.png": "/web/static/media/sensiSole_data.c5a933a786c8921fd4b2.png",
     "static/media/adaptInsole.png": "/web/static/media/adaptInsole.8a0872b0517ea5477ce5.png",
     "static/media/fa-brands-400.ttf": "/web/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
     "static/media/fa-solid-900.woff2": "/web/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
     "static/media/fa-brands-400.woff2": "/web/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/scadCode.png": "/web/static/media/scadCode.732377acaaa035f2de14.png",
     "static/media/fa-regular-400.ttf": "/web/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/openSCAD.png": "/web/static/media/openSCAD.70317606159841d87b67.png",
     "static/media/fa-regular-400.woff2": "/web/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
     "static/media/fa-v4compatibility.ttf": "/web/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
     "static/media/fa-v4compatibility.woff2": "/web/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/web/index.html",
-    "main.be6db765.css.map": "/web/static/css/main.be6db765.css.map",
-    "main.5e3fb314.js.map": "/web/static/js/main.5e3fb314.js.map"
+    "main.176258ba.css.map": "/web/static/css/main.176258ba.css.map",
+    "main.f91225c0.js.map": "/web/static/js/main.f91225c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.be6db765.css",
-    "static/js/main.5e3fb314.js"
+    "static/css/main.176258ba.css",
+    "static/js/main.f91225c0.js"
   ]
 }
