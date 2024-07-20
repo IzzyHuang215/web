@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/web/static/css/main.db5ed367.css",
-    "main.js": "/web/static/js/main.4f6e83ff.js",
+    "main.js": "/web/static/js/main.a20a1a20.js",
     "static/media/synth_render1.png": "/web/static/media/synth_render1.d4bd8104678f19dbfcdb.png",
     "static/media/synth_render3.png": "/web/static/media/synth_render3.cac418b2686180097271.png",
     "static/media/synth_render2.png": "/web/static/media/synth_render2.563b85a58738a297a16b.png",
@@ -25,6 +25,7 @@
     "static/media/hexChannels.png": "/web/static/media/hexChannels.87345c04ff87ee4490d4.png",
     "static/media/3Finger.png": "/web/static/media/3Finger.1fafcd707a6f5c77edb5.png",
     "static/media/user_interface.png": "/web/static/media/user_interface.274949b2cd49ace3ef98.png",
+    "static/media/gearbox.png": "/web/static/media/gearbox.069dc5e0e4502fb5dcd7.png",
     "static/media/sensiSole_data.png": "/web/static/media/sensiSole_data.c5a933a786c8921fd4b2.png",
     "static/media/adaptInsole.png": "/web/static/media/adaptInsole.8a0872b0517ea5477ce5.png",
     "static/media/fa-brands-400.ttf": "/web/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
@@ -39,10 +40,10 @@
     "static/media/fa-v4compatibility.woff2": "/web/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/web/index.html",
     "main.db5ed367.css.map": "/web/static/css/main.db5ed367.css.map",
-    "main.4f6e83ff.js.map": "/web/static/js/main.4f6e83ff.js.map"
+    "main.a20a1a20.js.map": "/web/static/js/main.a20a1a20.js.map"
   },
   "entrypoints": [
     "static/css/main.db5ed367.css",
-    "static/js/main.4f6e83ff.js"
+    "static/js/main.a20a1a20.js"
   ]
 }
